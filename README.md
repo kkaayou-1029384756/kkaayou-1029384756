@@ -1,4 +1,8 @@
-#**안녕하세요**!
+![api](https://github.com/user-attachments/assets/397e5604-5154-4804-8456-129d4d322b55)
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="200" viewBox="0 0 854 200">
+# 연락처:
+### Discord : yuieoiu
+### E-Mail : kyou09kang@gmail.com
 
 
 <!--
